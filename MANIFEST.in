@@ -1,0 +1,2 @@
+include LICENSE README.md requirements.txt
+recursive-include articles *.py *.html *.po *.mo *.gif *.js *.css *.json
